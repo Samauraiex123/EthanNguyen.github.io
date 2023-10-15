@@ -1,1 +1,1 @@
-# EthanNguyen.github.io
+# MyProject.github.io
